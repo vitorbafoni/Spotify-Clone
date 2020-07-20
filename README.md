@@ -1,6 +1,3 @@
-# Spotify-Clone
-Single page responsiva desenvolvida com HTML, CSS e Bootstrap.
-
 <h1 align="center">
 Spotify Clone
 </h1>
