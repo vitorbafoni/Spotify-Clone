@@ -2,7 +2,7 @@
 Spotify Clone
 </h1>
 
-<p align="center">Projeto estático responsivo desenvolvido utilizando somente HTML, CSS e Bootstrap.</p>
+<p align="center">Single page estática responsiva desenvolvida utilizando somente HTML, CSS e Bootstrap.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
